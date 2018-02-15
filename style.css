@@ -1,0 +1,46 @@
+h1 {
+  font-family: 'Space Mono', monospace;
+  text-align: center;
+  font-size: 65px;
+  padding-bottom: 55px;
+}
+
+h2 {
+  font-family: 'Space Mono', monospace;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+p {
+  font-family: 'Neuton', serif;
+
+}
+
+body, html{
+  height: 100%;
+
+  background-image: url(https://i.ytimg.com/vi/rj7xMBxd5iY/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  color: yellow;
+}
+
+img {
+  float: center;
+  width: 200px;
+  padding: 10px;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  display: inline;
+  padding: 25px;
+  text-align-all: bottom;
+}
+
+
